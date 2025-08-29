@@ -74,7 +74,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/RohitSaiKiran/Teaching_Neural_Network_to_Read_Handwriting_MNIST_PyTorch
-cd Teaching_Neural_Network_to_Read_Handwriting_MNIST_PyTorch
 ```
 
 Create a virtual environment and install dependencies:
